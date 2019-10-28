@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/_Completed-Game/Scenes/Katamari2.unity
-  isLoaded: 1
-  isActive: 1
